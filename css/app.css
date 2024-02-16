@@ -47,8 +47,6 @@
   height: 0.4rem !important;
   width: 3rem !important;
 }
-<<<<<<< HEAD
-
 section#instructors .card {
   transition: transform 0.3s;
   cursor: pointer;
@@ -107,5 +105,3 @@ footer i:hover {
   transform: scale(1.2);
   font-size: 1.4rem;
 }
-=======
->>>>>>> 6160f556e9c20c2c8f4aa61992601e0fa9f77cec
